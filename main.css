@@ -1,19 +1,19 @@
-.jumbotron a
-{
-   background-image: url();
-   height: 100px;
-   background-repeat: no-repeat;
-   background-size: cover;
-}
 
 .jumbotron h1
 {
+    background-image: url("rebelBackgroundLogo.jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    padding-top: auto;
+    
+    color: white;
     text-align: center;  
     font-family: "Raleway";
     font-weight: bold;
 }
 
-.jumbotron p
+.jumbotron .container
 {
-    font-weight: lighter;
+    text-align: center;
 }

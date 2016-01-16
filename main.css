@@ -1,5 +1,10 @@
-.jumbotron
+.jumbotron a
 {
-    
+    background-image:url("http://cdn.shopify.com/s/files/1/0347/6961/products/rebel_insignia_symbol_desktop_wallpaper_by_swmand4-d7lg5f2_81a0bd82-bbb4-495f-b843-08dbf4d68dba_1024x1024.jpg?v=1448500507"); 
+}
+
+.jumbotron h1
+{
+    text-align: center;
     
 }

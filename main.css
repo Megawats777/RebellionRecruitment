@@ -1,10 +1,19 @@
 .jumbotron a
 {
-    background-image:url("http://cdn.shopify.com/s/files/1/0347/6961/products/rebel_insignia_symbol_desktop_wallpaper_by_swmand4-d7lg5f2_81a0bd82-bbb4-495f-b843-08dbf4d68dba_1024x1024.jpg?v=1448500507"); 
+   background-image: url('http://images.akamai.steamusercontent.com/ugc/3334089288435393743/6CA8D6DC8F3C0A3870D6816C6F1B4BC1575D140B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C268:268&composite-to=*,*%7C268:268&background-color=black');
+   height: 100px;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 .jumbotron h1
 {
-    text-align: center;
-    
+    text-align: center;  
+    font-family: "Raleway";
+    font-weight: bold;
+}
+
+.jumbotron p
+{
+    font-weight: lighter;
 }

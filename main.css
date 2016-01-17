@@ -1,11 +1,73 @@
-.jumbotron h1
+.jumbotron
 {
+    background-color: white;
+    
+    background-image: url("Rebel-Alliance-Flag2.png");
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding-bottom: 50px;
+    
+    border-bottom: 2px solid grey;
+    color: white;
     text-align: center;  
     font-family: "Raleway";
     font-weight: bold;
 }
 
-.jumbotron .container
+.jumbotron p
 {
-    text-align: center;
+    font-size: 35px;
+}
+
+.overview
+{
+    padding-top: -20px;
+}
+
+
+.overview h3
+{
+    font-family: "Raleway";
+    font-size: 35px;
+    text-decoration: underline;
+    color: black;   
+}
+
+.overview .container ul
+{
+    font-size: 20px;   
+}
+
+.overview .container img
+{
+    position: relative;
+    left: 800px;
+}
+
+.joinInfo
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    left: 800px;
+}
+
+.joinInfo h3
+{
+    font-family: "Raleway";
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.joinInfo .container ul
+{
+    font-size: 20px;
+}
+
+.joinInfo .container img
+{
+    position: relative;
+    left: -800px;
 }

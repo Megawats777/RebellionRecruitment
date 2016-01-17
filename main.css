@@ -23,7 +23,7 @@
 
 .overview
 {
-    padding-top: -20px;
+    padding-bottom: 40px;
 }
 
 
@@ -37,22 +37,24 @@
 
 .overview .container ul
 {
-    font-size: 20px;   
+    font-size: 20px;
+    font-family: "Raleway";   
 }
 
+/*
 .overview .container img
 {
     position: relative;
     left: 800px;
 }
+*/
+
 
 .joinInfo
 {
-    padding-top: 100px;
-    padding-bottom: 100px;
-    position: relative;
-    left: 800px;
+    padding-bottom: 120px;
 }
+
 
 .joinInfo h3
 {
@@ -64,10 +66,42 @@
 .joinInfo .container ul
 {
     font-size: 20px;
+    font-family: "Raleway";
 }
 
-.joinInfo .container img
+.posters
 {
-    position: relative;
-    left: -800px;
+    padding-bottom: 100px;
+}
+
+.posters .container h2
+{
+    font-family: "Raleway";
+    font-size: 35px;
+    text-decoration: underline;
+    color: black;
+    
+    padding-bottom: 50px;
+}
+
+.posters .spacer-Left
+{
+    padding-top: 118px;
+}
+
+.posters .spacer-Left img
+{
+    padding-right: 20px;  
+}
+
+.posters .spacer-Right img
+{
+    padding-left: 20px;
+    border: none;
+}
+
+
+.posters .spacer-Right
+{
+    padding-top: 118px;
 }

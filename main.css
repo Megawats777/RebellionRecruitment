@@ -69,3 +69,22 @@
     font-family: "Raleway";
 }
 
+.posters .container h2
+{
+    font-family: "Raleway";
+    font-size: 35px;
+    text-decoration: underline;
+    color: black;
+    
+    padding-bottom: 50px;
+}
+
+.posters .spacer-Left
+{
+    padding-top: 118px;
+}
+
+.posters .spacer-Right
+{
+    padding-top: 118px;
+}

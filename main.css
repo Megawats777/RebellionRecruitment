@@ -74,6 +74,27 @@
     font-family: "Raleway";
 }
 
+.benefits 
+{
+    padding-top: 50px;
+    padding-bottom: 120px;
+    
+    border-bottom: 2px solid grey;
+}
+
+.benefits h3
+{
+    font-family: "Raleway";
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+.benefits .container ul
+{
+    font-family: "Raleway";
+    font-size: 20px;
+}
+
 .posters
 {
     padding-top: 100px;

@@ -99,6 +99,8 @@
 {
     padding-top: 45px;
     padding-bottom: 100px;
+    
+    border-bottom: 2px solid grey;;
 }
 
 .posters .container h2

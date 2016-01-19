@@ -141,7 +141,7 @@
 .join-now
 {
     padding-top: 40px;
-    padding-bottom: 50px;
+    padding-bottom: 500px;
 }
 
 
@@ -157,6 +157,15 @@
 
 .join-now .container .spacer-center .join-link
 {
+    font-size: 35px;
+    text-decoration: underline;
     text-align: center;
     font-family: "Raleway";
+    
+    padding-bottom: 400px;
+}
+
+.join-now .container .img
+{
+    align-content: center;
 }

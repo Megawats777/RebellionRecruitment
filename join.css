@@ -8,6 +8,22 @@
     font-family: "Raleway";
     
     padding-top: 50px;
-    padding-bottom: 25px;
+    padding-bottom: 50px;
 }
 
+.thanks .container .thanks-message
+{
+    font-family: "Raleway";
+    font-size: 20px;
+    
+    position: relative;
+    left: 140px;
+    
+    padding-bottom: 90px;
+}
+
+.thanks .container .thumbnail
+{
+   position: relative;
+   right: 110px;
+}

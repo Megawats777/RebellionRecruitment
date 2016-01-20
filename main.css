@@ -121,7 +121,7 @@
 .posters .spacer-Left img
 {
     padding-right: 20px;
-    border: 0;
+    border: none;
     box-shadow: 0;
     border-radius: 0;  
 }
@@ -165,8 +165,10 @@
     padding-bottom: 400px;
 }
 
-.join-now .container img
+.join-now .container .thumbnail img
 {
+    border: none;
+    
     padding-top: 115px;
     align-content: center;
 }

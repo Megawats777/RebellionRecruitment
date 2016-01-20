@@ -24,6 +24,10 @@
 
 .thanks .container .thumbnail
 {
+   border: none;
+   
+   color:white;
+   
    position: relative;
    right: 110px;
 }

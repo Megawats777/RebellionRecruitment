@@ -141,7 +141,10 @@
 .join-now
 {
     padding-top: 40px;
-    padding-bottom: 200px;
+    
+    /*
+    padding-bottom: 5px;
+    */
 }
 
 
@@ -152,7 +155,7 @@
     font-family: "Raleway";
     font-size: 40px;
     
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 
 .join-now .container .spacer-center .join-link
@@ -162,13 +165,22 @@
     text-align: center;
     font-family: "Raleway";
     
-    padding-bottom: 400px;
+    padding-bottom: 200px;
 }
 
 .join-now .container .thumbnail img
 {
     border: none;
     
-    padding-top: 115px;
+    padding-top: 85px;
     align-content: center;
 }
+
+.join-now-side-images .container .thumbnail img
+{
+    padding-bottom: 50px;
+    
+    border-color: black;
+    border: none;
+}
+

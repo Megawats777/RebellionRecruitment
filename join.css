@@ -31,3 +31,8 @@
    position: relative;
    right: 110px;
 }
+
+.videoMessage .container .video
+{
+    align-content: center;
+}
